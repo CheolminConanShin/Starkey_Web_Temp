@@ -1,0 +1,19 @@
+.postEditor {
+  margin: 1em 20%;
+}
+
+.postEditorButton {
+  float: right;
+  margin-top: 1em;
+}
+
+
+@media(max-width: 900px) {
+  .postEditor {
+    margin: 1em;
+  }
+
+  .post-body {
+    margin: 1em;
+  }
+}
